@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/QCameraGrab">
+        <file>QCameraGrab.qrc</file>
+        <file alias="CameraICON">Resources/camera.ico</file>
+        <file alias="Min">Resources/Min.ico</file>
+        <file alias="Close">Resources/Close.ico</file>
+    </qresource>
+</RCC>
